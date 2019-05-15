@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CodelabsProjectFour</string>
+    <string name="button_send">Send</string>
+    <string name="second_activity">Second Activity</string>
+    <string name="message_received">Message Received</string>
+    <string name="main_hint">Enter your message here</string>
+    <string name="replay">Replay</string>
+    <string name="button_replay">Replay</string>
+    <string name="write_a_replay">Write a replay</string>
+</resources>
