@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CodelabsProjectFive</string>
+    <string name="button_web">Open Website</string>
+    <string name="button_map">Open Location</string>
+    <string name="button_text">Shire This Text</string>
+    <string name="edit_uri">http://developer.android.com</string>
+    <string name="edit_location">Golden Gate Bridge</string>
+    <string name="edit_text_share">\'Twas brilling and the slithy toves</string>
+</resources>
