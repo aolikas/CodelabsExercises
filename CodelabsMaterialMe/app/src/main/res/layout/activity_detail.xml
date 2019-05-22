@@ -11,13 +11,13 @@
 
         <ImageView
             android:id="@+id/sport_image_detail"
-            android:layout_width="match_parent"
+            android:layout_width="match_parent" android:contentDescription="TODO" 
             android:layout_height="wrap_content"
             android:adjustViewBounds="true" />
 
         <TextView
             android:id="@+id/title_detail"
-            style="@style/TextAppearance.AppCompat.Headline"
+            style="@style/SportsDetailTitle"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_alignBottom="@+id/sport_image_detail"
@@ -27,7 +27,7 @@
 
         <TextView
             android:id="@+id/news_title_detail"
-            style="@style/TextAppearance.AppCompat.Subhead"
+            style="@style/SportsDetailText"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_below="@+id/sport_image"
@@ -37,7 +37,7 @@
 
         <TextView
             android:id="@+id/sub_title_detail"
-            style="@style/TextAppearance.AppCompat.Subhead"
+            style="@style/SportsDetailText"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_below="@+id/news_title_detail"
