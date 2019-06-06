@@ -3,4 +3,8 @@
     <string name="main_activity_text_instruction">Enter a book name to find out who wrote the book</string>
     <string name="main_activity_edit_hint">Book Title</string>
     <string name="main_activity_button_text">Search Book</string>
+    <string name="no_result">No results!</string>
+    <string name="loading">Loading...</string>
+    <string name="no_search_item">Please enter a search term</string>
+    <string name="no_network">Please check your network connection and try again</string>
 </resources>
